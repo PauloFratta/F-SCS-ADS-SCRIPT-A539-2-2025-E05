@@ -30,7 +30,7 @@
 
 .navbar{
     background-color: #f6d64f;
-    /* padding: 0.2rem; */
+    padding: 0.2rem;
     position: sticky;
     top: 0;
     box-shadow: 10px 0px 10px #2c2c2c;
